@@ -1,0 +1,1 @@
+# rnd_day_python
